@@ -224,11 +224,6 @@ static DisplayJDIDevice s_display = {
             .func = GPIO_A24,
             .flags = PIN_NOPULL,
         },
-        .va = {
-            .pad = PAD_PA25,
-            .func = GPIO_A25,
-            .flags = PIN_NOPULL,
-        },
     },
 };
 
